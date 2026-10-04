@@ -1,0 +1,5 @@
+Point(3.4, 5.5)
+Line(Point(1.2, 3.4), Point(5, 6))
+Circle(Point(5, 6), 7)
+это мусор
+Point(1, 2, 3)
